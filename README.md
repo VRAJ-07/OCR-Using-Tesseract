@@ -54,6 +54,7 @@ curl -X POST -F "image=@path_to_image.jpg" http://localhost:8784/ocr
 {
   "extracted_text": "The text extracted from the image"
 }
+```
 
 ## Dependencies
 
